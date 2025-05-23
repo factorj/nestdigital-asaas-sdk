@@ -59,7 +59,7 @@ Para instalar o pacote é necessário informar, no composer.json, o repositório
 "repositories": {
     "nestdigital/asaas" : {
         "type" : "vcs",
-        "url" : "https://github.com/danielsmelo/nestdigital-asaas.git"
+        "url" : "https://github.com/factorj/nestdigital-asaas.git"
     }
 }
 ```
